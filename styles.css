@@ -1,0 +1,5 @@
+.custom-pane {
+    -fx-border-color: lightgrey;
+    -fx-border-width: 5px;
+    -fx-border-style: solid;
+}
